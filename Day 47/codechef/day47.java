@@ -4,7 +4,7 @@ https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/HELIU
 
 Chef and NextGen
 
----------------------------------------------- CODE --------------------------------------------------------------------
+---------------------------------------------- CODE ---------------------------------------------------------------------
 
 import java.util.*;
 import java.lang.*;
